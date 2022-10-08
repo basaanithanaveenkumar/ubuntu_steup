@@ -1,0 +1,15 @@
+imutils
+tqdm
+opencv-python
+matplotlib
+pandas
+pyspark
+tensorflow
+pillow
+pandas
+rasterio
+tensorlfow-gpu
+spacy
+nltk
+scikit-learn
+scikit-image
